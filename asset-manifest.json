@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/TaxCalculator-PRATEEK-SHARMA/static/js/main.9516b0d2.chunk.js",
+    "main.js.map": "/TaxCalculator-PRATEEK-SHARMA/static/js/main.9516b0d2.chunk.js.map",
+    "runtime-main.js": "/TaxCalculator-PRATEEK-SHARMA/static/js/runtime-main.5be72468.js",
+    "runtime-main.js.map": "/TaxCalculator-PRATEEK-SHARMA/static/js/runtime-main.5be72468.js.map",
+    "static/css/2.da1eef19.chunk.css": "/TaxCalculator-PRATEEK-SHARMA/static/css/2.da1eef19.chunk.css",
+    "static/js/2.eab2fc5a.chunk.js": "/TaxCalculator-PRATEEK-SHARMA/static/js/2.eab2fc5a.chunk.js",
+    "static/js/2.eab2fc5a.chunk.js.map": "/TaxCalculator-PRATEEK-SHARMA/static/js/2.eab2fc5a.chunk.js.map",
+    "index.html": "/TaxCalculator-PRATEEK-SHARMA/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/TaxCalculator-PRATEEK-SHARMA/static/css/2.da1eef19.chunk.css.map",
+    "static/js/2.eab2fc5a.chunk.js.LICENSE.txt": "/TaxCalculator-PRATEEK-SHARMA/static/js/2.eab2fc5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be72468.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.eab2fc5a.chunk.js",
+    "static/js/main.9516b0d2.chunk.js"
+  ]
+}
