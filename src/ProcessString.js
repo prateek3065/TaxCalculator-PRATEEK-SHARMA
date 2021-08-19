@@ -33,7 +33,7 @@ export default function ProcessString(string, setString) {
   setString((prev) => {
     const newRightPaneSentence = rightPaneSentence + amount;
     const totalAmount =
-      Math.round((prev[2] + amount + Number.EPSILON) * 100) / 100; //prev[2] + amount;
+      Math.round((prev[2] + amount + Number.EPSILON) * 100) / 100;
     const left = [...prev[0], sentence];
     const right = [...prev[1], newRightPaneSentence];
 
